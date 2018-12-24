@@ -1,0 +1,53 @@
+2017-10-31T00:46:00.915Z - normal: Load ~/.CocosCreator/settings.json
+2017-10-31T00:46:00.918Z - normal: checking language setting...
+2017-10-31T00:46:00.919Z - normal: Language: zh
+2017-10-31T00:46:01.433Z - success: protocol editor-framework registered
+2017-10-31T00:46:01.433Z - success: protocol app registered
+2017-10-31T00:46:01.433Z - success: protocol theme registered
+2017-10-31T00:46:01.433Z - success: protocol profile registered
+2017-10-31T00:46:01.433Z - success: protocol packages registered
+2017-10-31T00:46:01.437Z - success: protocol unpack registerred
+2017-10-31T00:46:01.437Z - success: protocol disable-commonjs registerred
+2017-10-31T00:46:01.597Z - normal: connected!
+2017-10-31T00:46:01.600Z - normal: Check project /Users/mjgao/Documents/cocos/complete_project
+2017-10-31T00:46:01.611Z - normal: Initializing Cocos2d
+2017-10-31T00:46:01.745Z - normal: Initializing Asset Database
+2017-10-31T00:46:01.766Z - success: protocol uuid registerred
+2017-10-31T00:46:01.767Z - success: protocol db registerred
+2017-10-31T00:46:01.767Z - success: protocol thumbnail registerred
+2017-10-31T00:46:01.767Z - normal: Loading editor/builtin packages
+2017-10-31T00:46:01.783Z - success: anysdk loaded
+2017-10-31T00:46:01.888Z - success: assets loaded
+2017-10-31T00:46:01.891Z - success: builder loaded
+2017-10-31T00:46:01.895Z - success: hierarchy loaded
+2017-10-31T00:46:01.899Z - success: inspector loaded
+2017-10-31T00:46:01.900Z - success: keystore loaded
+2017-10-31T00:46:01.904Z - success: node-library loaded
+2017-10-31T00:46:01.906Z - success: package-asset loaded
+2017-10-31T00:46:01.908Z - success: preferences loaded
+2017-10-31T00:46:01.911Z - success: project-exporter loaded
+2017-10-31T00:46:01.923Z - success: project-importer loaded
+2017-10-31T00:46:01.926Z - success: project-settings loaded
+2017-10-31T00:46:01.929Z - success: ui-kit loaded
+2017-10-31T00:46:01.937Z - success: ui-grid loaded
+2017-10-31T00:46:01.941Z - success: scene loaded
+2017-10-31T00:46:01.943Z - success: sprite-editor loaded
+2017-10-31T00:46:01.947Z - success: store loaded
+2017-10-31T00:46:01.952Z - success: timeline loaded
+2017-10-31T00:46:01.952Z - normal: Loading builtin packages
+2017-10-31T00:46:01.956Z - success: asset-db-debugger loaded
+2017-10-31T00:46:01.957Z - success: color-picker loaded
+2017-10-31T00:46:01.961Z - success: console loaded
+2017-10-31T00:46:01.964Z - success: package-manager loaded
+2017-10-31T00:46:01.968Z - success: sdkbox loaded
+2017-10-31T00:46:01.971Z - success: tester loaded
+2017-10-31T00:46:01.975Z - success: ui-kit-preview-extra loaded
+2017-10-31T00:46:01.977Z - success: ui-kit-preview loaded
+2017-10-31T00:46:01.980Z - success: ui-tree loaded
+2017-10-31T00:46:02.672Z - normal: Initializing project /Users/mjgao/Documents/cocos/complete_project
+2017-10-31T00:46:02.676Z - normal: Loading packages
+2017-10-31T00:46:02.682Z - normal: Watching packages
+2017-10-31T00:46:02.694Z - normal: Run Application
+2017-10-31T00:46:03.222Z - success: preview server running at http://localhost:7457
+2017-10-31T00:46:07.383Z - normal: 1.6.2
+2017-10-31T00:46:11.837Z - info: shutdown preview server

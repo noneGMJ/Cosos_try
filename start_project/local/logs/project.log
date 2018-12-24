@@ -1,0 +1,77 @@
+2017-10-31T00:11:58.615Z - normal: Load ~/.CocosCreator/settings.json
+2017-10-31T00:11:58.618Z - normal: checking language setting...
+2017-10-31T00:11:58.618Z - normal: Language: zh
+2017-10-31T00:11:59.094Z - success: protocol editor-framework registered
+2017-10-31T00:11:59.094Z - success: protocol app registered
+2017-10-31T00:11:59.095Z - success: protocol theme registered
+2017-10-31T00:11:59.095Z - success: protocol profile registered
+2017-10-31T00:11:59.095Z - success: protocol packages registered
+2017-10-31T00:11:59.095Z - success: protocol unpack registerred
+2017-10-31T00:11:59.095Z - success: protocol disable-commonjs registerred
+2017-10-31T00:11:59.196Z - normal: connected!
+2017-10-31T00:11:59.198Z - normal: Check project /Users/mjgao/Documents/cocos/start_project
+2017-10-31T00:11:59.200Z - normal: Initializing Cocos2d
+2017-10-31T00:11:59.340Z - normal: Initializing Asset Database
+2017-10-31T00:11:59.365Z - success: protocol uuid registerred
+2017-10-31T00:11:59.365Z - success: protocol db registerred
+2017-10-31T00:11:59.365Z - success: protocol thumbnail registerred
+2017-10-31T00:11:59.365Z - normal: Loading editor/builtin packages
+2017-10-31T00:11:59.384Z - success: anysdk loaded
+2017-10-31T00:11:59.490Z - success: assets loaded
+2017-10-31T00:11:59.493Z - success: builder loaded
+2017-10-31T00:11:59.496Z - success: hierarchy loaded
+2017-10-31T00:11:59.500Z - success: inspector loaded
+2017-10-31T00:11:59.501Z - success: keystore loaded
+2017-10-31T00:11:59.505Z - success: node-library loaded
+2017-10-31T00:11:59.506Z - success: package-asset loaded
+2017-10-31T00:11:59.508Z - success: preferences loaded
+2017-10-31T00:11:59.510Z - success: project-exporter loaded
+2017-10-31T00:11:59.522Z - success: project-importer loaded
+2017-10-31T00:11:59.525Z - success: project-settings loaded
+2017-10-31T00:11:59.528Z - success: ui-kit loaded
+2017-10-31T00:11:59.532Z - success: ui-grid loaded
+2017-10-31T00:11:59.539Z - success: scene loaded
+2017-10-31T00:11:59.540Z - success: sprite-editor loaded
+2017-10-31T00:11:59.545Z - success: store loaded
+2017-10-31T00:11:59.550Z - success: timeline loaded
+2017-10-31T00:11:59.551Z - normal: Loading builtin packages
+2017-10-31T00:11:59.555Z - success: asset-db-debugger loaded
+2017-10-31T00:11:59.556Z - success: color-picker loaded
+2017-10-31T00:11:59.561Z - success: console loaded
+2017-10-31T00:11:59.564Z - success: package-manager loaded
+2017-10-31T00:11:59.568Z - success: sdkbox loaded
+2017-10-31T00:11:59.571Z - success: tester loaded
+2017-10-31T00:11:59.575Z - success: ui-kit-preview-extra loaded
+2017-10-31T00:11:59.577Z - success: ui-kit-preview loaded
+2017-10-31T00:11:59.580Z - success: ui-tree loaded
+2017-10-31T00:12:00.278Z - normal: Initializing project /Users/mjgao/Documents/cocos/start_project
+2017-10-31T00:12:00.281Z - normal: Loading packages
+2017-10-31T00:12:00.287Z - normal: Watching packages
+2017-10-31T00:12:00.299Z - normal: Run Application
+2017-10-31T00:12:01.015Z - failed: [db-task][init] Failed to import asset /Users/mjgao/Documents/cocos/start_project/assets/scripts/game.js, message: Compile error: SyntaxError: /Users/mjgao/Documents/cocos/start_project/assets/scripts/game.js: Unexpected token, expected , (77:4)
+  75 | 
+  76 |     // called every frame, uncomment this function to activate update callback
+> 77 |     update: function (dt) {
+     |     ^
+  78 |         // 每帧判断和主角之间的距离是否小于收集距离
+  79 |         if (this.getPlayerDistance() < this.pickRadius) {
+  80 |             // 调用收集行为
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$3.parseObj (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+2017-10-31T00:12:01.196Z - success: preview server running at http://localhost:7457
+2017-10-31T00:12:05.129Z - normal: 1.6.2
+2017-10-31T00:12:05.577Z - warn: Script attached to "Canvas" in scene "game.fire" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/game.fire"
+Script UUID: "e736d869-ca32-46f3-a650-1cb60d05c141"
+Class ID: "e736dhpyjJG86ZQHLYNBcFB"
+
+2017-10-31T00:12:08.730Z - info: shutdown preview server
